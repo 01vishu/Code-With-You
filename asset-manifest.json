@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/code-with-you/static/css/main.92a34cde.css",
+    "main.js": "/code-with-you/static/js/main.798cb768.js",
+    "static/media/support.jpg": "/code-with-you/static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "static/media/cyber-bg.png": "/code-with-you/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "index.html": "/code-with-you/index.html",
+    "main.92a34cde.css.map": "/code-with-you/static/css/main.92a34cde.css.map",
+    "main.798cb768.js.map": "/code-with-you/static/js/main.798cb768.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92a34cde.css",
+    "static/js/main.798cb768.js"
+  ]
+}
